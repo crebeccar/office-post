@@ -35,19 +35,19 @@ body {
 
 #menu {
 	position: fixed;
-	left: 80%;
+	left: 500px;
 	top: 40%;
 	color: white;
-	letter-spacing: .01em;
+	letter-spacing: .02em;
 	z-index:10;
 	padding: 13px;
 	padding-right: 15px;
-	font: 32px/20px monospace;
+	font: 40px Times New Roman, serif;
     letter-spacing: -0.3px;
 	cursor: move;
-	border-style: none;
+	border-style: solid;
 	border-color: blue;
-	background-color: #eee;
+	background-color: none;
 }
 
 #logo {
