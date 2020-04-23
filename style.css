@@ -35,8 +35,8 @@ body {
 
 #menu {
 	position: fixed;
-	left: 500px;
-	top: 40%;
+	left: 30px;
+	top: 80%;
 	color: white;
 	letter-spacing: .02em;
 	z-index:10;
@@ -54,7 +54,7 @@ body {
 	z-index: 20;
 	position: fixed;
 	right: 90px;
-	top: 500px;
+	top: 80%;
 	width: 300px;
 }
     #logo-touch {
