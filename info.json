@@ -3,12 +3,8 @@
 	"logo" : "logo.png",
 	"about" : "Hello, Welcome",
 	"menu" : {
-		"About" : "https://docs.google.com/document/d/16EcIDzbChbbONKfl96JOZKiBI-utHkWGpMXanZwnpQs/edit?usp=sharing",
-		"Notes" : "https://docs.google.com/document/d/12A20oy_AN6Hi1kSg8CF14ofG2ZFrpL4QywLvWGyzWc8/edit?usp=sharing",
+		"TV" : "https://www.youtube.com/watch?v=CPobcHkfEtk",
+		"Surveys" : "https://docs.google.com/document/d/12A20oy_AN6Hi1kSg8CF14ofG2ZFrpL4QywLvWGyzWc8/edit?usp=sharing",
 		"Bibliography" : "https://working-l-i-b.tumblr.com/",
-		"WPA IMG" : "https://w-p-a.tumblr.com/",
-		"3D Warehouse" : "https://3dwarehouse.sketchup.com/collection/99f0ab21-cd76-47fd-8e41-6ad2827f5598/Post-Office",
-		"Save the Post Office" : "https://www.savethepostoffice.com/",
-		"Postlandia" : "https://blog.evankalish.com/search?updated-max=2019-01-06T13:58:00-05:00&max-results=5"
 	}
 }
