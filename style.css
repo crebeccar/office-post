@@ -53,8 +53,8 @@ body {
 #logo {
 	z-index: 20;
 	position: fixed;
-	right: 70px;
-	top: 60px;
+	right: 90px;
+	top: 500px;
 	width: 300px;
 }
     #logo-touch {
