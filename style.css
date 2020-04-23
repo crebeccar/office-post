@@ -42,7 +42,7 @@ body {
 	z-index:10;
 	padding: 13px;
 	padding-right: 15px;
-	font: 40px Times New Roman, serif;
+	font: 32px Times New Roman, serif;
     letter-spacing: -0.3px;
 	cursor: move;
 	border-style: solid;
@@ -96,7 +96,7 @@ body {
 	padding: 1px;
 }
 #navigation a.active{
-	color: #c2c5cc;
+	color: #ffff00;
 }
 #navigation a:hover{
 	color: #ffff00;
