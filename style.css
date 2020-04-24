@@ -47,7 +47,7 @@ body {
 	cursor: move;
 	border-style: solid;
 	border-color: blue;
-	background-color: none;
+	background-color: white;
 }
 
 #logo {
@@ -90,16 +90,16 @@ body {
 }
 
 #navigation a, div.about{
-	color: #0000FF;
+	color: #000000;
 	padding: 0;
 	text-decoration: none;
 	padding: 1px;
 }
 #navigation a.active{
-	color: #ffff00;
+	color: #00FF00;
 }
 #navigation a:hover{
-	color: #ffff00;
+	color: #00FF00;
 }
 #navigation .current_page_item a {
 	color: red;
